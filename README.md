@@ -1,2 +1,3 @@
-# Opentracks-Web
-This is the source of Opentracks from this website: https://open-tracks.vercel.app/index.html It's here for archive &amp; for anyone who wants to host it. It's made by StrikerBlitz on YT
+#  8Store-WebStore
+This is the unofficial Source of the 8Store Webstore. This is made by 8NetDude & Dankassassin368.
+You can check out the official source here https://8storewebstore.dankassassin368.com/
