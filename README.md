@@ -1,6 +1,6 @@
 #  8Store-WebStore
-This is the unofficial Source of the 8Store Webstore. This is made by 8NetDude & Dankassassin368.
-You can check out the official website here https://8storewebstore.dankassassin368.com/
+This is the unofficial Source of the 8Store Webstore V6. This is made by 8NetDude & Dankassassin368.
+The website is dead now and I just wanted to give out the source code since V6 might be lost media if I didn't do it
 
 This .zip file includes:
 - The 8Store Webstore V6 Website
